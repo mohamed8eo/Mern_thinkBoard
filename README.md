@@ -1,6 +1,7 @@
 # MERN Stack Note Taking App
 
-**Live Demo:** [https://thinkboard.up.railway.app/](https://thinkboard.up.railway.app/)
+
+🔗 **Live Demo:** [View Site](https://thinkboard.up.railway.app/)
 
 ---
 
