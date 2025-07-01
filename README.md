@@ -7,6 +7,8 @@
 ## Screenshots
 
 ### Homepage
+![image](https://github.com/user-attachments/assets/bbb2a262-ee6f-41e5-89c3-b329f81494c6)
+
 ![Homepage Screenshot](![image](https://github.com/user-attachments/assets/736528a3-e898-42f3-adc5-a219378a9cb9)
 )
 *The homepage displays all your notes in a clean, card-based layout. You can view, edit, or delete notes, and create a new note using the green button at the top right.*
