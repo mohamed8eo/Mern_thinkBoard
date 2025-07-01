@@ -7,15 +7,18 @@
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](./assets/homepage-screenshot.png)
+![Homepage Screenshot](![image](https://github.com/user-attachments/assets/736528a3-e898-42f3-adc5-a219378a9cb9)
+)
 *The homepage displays all your notes in a clean, card-based layout. You can view, edit, or delete notes, and create a new note using the green button at the top right.*
 
 ### Create Note Page
-![Create Note Page Screenshot](./assets/create-note-screenshot.png)
+![Create Note Page Screenshot](![image](https://github.com/user-attachments/assets/9f1cb65b-d102-4166-9da8-bd037a9db2b9)
+)
 *The create note page allows you to add a new note by entering a title and content. After filling out the form, click "Create Note" to save your note.*
 
 ### Update Note Page
-![Update Note Page Screenshot](./assets/update-note-screenshot.png)
+![Update Note Page Screenshot](![image](https://github.com/user-attachments/assets/4a525e26-0654-4827-a624-71571c502445)
+)
 *The update note page lets you edit the title and content of an existing note. You can save your changes or delete the note using the buttons provided.*
 
 A full-stack Note Taking application built with the MERN stack (MongoDB, Express, React, Node.js). This app allows users to create, view, update, and delete notes, with rate limiting and a modern UI.
